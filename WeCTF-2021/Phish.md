@@ -2,7 +2,7 @@
 ## Task: Phish
 ##### Tags: `medium` `web`
 We get the source code of the phishing site and link to it.
-#### Cource code
+#### Source code
 Many files are html, css to make the site looks similar to apple cloud. But there is a `main.py` file where all server code is.
 ```python
 class User(Model):
